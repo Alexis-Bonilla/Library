@@ -10,3 +10,15 @@ D:\Repositorio\Integrador\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
 D:\Repositorio\Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
 D:\Repositorio\Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
 D:\Repositorio\Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.LendBookWindow.resources
+C:\Users\User\Documents\GitHub\Tarea1Integrador\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+C:\Users\User\Documents\GitHub\Tarea1Integrador\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+C:\Users\User\Documents\GitHub\Tarea1Integrador\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+C:\Users\User\Documents\GitHub\Tarea1Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Tarea1Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.AddBookWindow.resources
+C:\Users\User\Documents\GitHub\Tarea1Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.InitialWindow.resources
+C:\Users\User\Documents\GitHub\Tarea1Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.LendBookWindow.resources
+C:\Users\User\Documents\GitHub\Tarea1Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\Tarea1Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\Tarea1Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Tarea1Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+C:\Users\User\Documents\GitHub\Tarea1Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
