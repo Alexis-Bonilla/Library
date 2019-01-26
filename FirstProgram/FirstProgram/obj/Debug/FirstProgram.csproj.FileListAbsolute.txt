@@ -1,0 +1,12 @@
+D:\Repositorio\Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csprojAssemblyReference.cache
+D:\Repositorio\Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.AddBookWindow.resources
+D:\Repositorio\Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.InitialWindow.resources
+D:\Repositorio\Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.Properties.Resources.resources
+D:\Repositorio\Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.GenerateResource.cache
+D:\Repositorio\Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.CoreCompileInputs.cache
+D:\Repositorio\Integrador\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+D:\Repositorio\Integrador\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+D:\Repositorio\Integrador\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+D:\Repositorio\Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+D:\Repositorio\Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
+D:\Repositorio\Integrador\FirstProgram\FirstProgram\obj\Debug\FirstProgram.LendBookWindow.resources
